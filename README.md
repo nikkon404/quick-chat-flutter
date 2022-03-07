@@ -14,7 +14,7 @@ This repo only contains Flutter (frontend) part of the project. The Backend of t
 
 
 ```
-git clone https://github.com/nikkon404/chatsnap.git
+git clone https://github.com/nikkon404/quick-chat-flutter.git
 ```
 
 goto `lib/utils/constants.dart` and update server url
