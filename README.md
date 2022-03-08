@@ -1,5 +1,5 @@
 # Quick Chat - Flutter
-Flutter application that implements websocket (socket.io) <a href="https://nodejs.org">Node.js</a>
+Flutter application that implements socket.io in <a href="https://nodejs.org">Node.js</a>
 Works in - Android, iOS and Web
 
 This repo only contains Flutter (frontend) part of the project. The Backend of this project an be found in
